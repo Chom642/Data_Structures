@@ -16,3 +16,11 @@ ex: Trojan horse viruses, or databases, while they could be good, they could als
 -This is due to geographical or financial differences.
 
 -Digital divide should be considered when creating certain programs etc.
+
+
+How does someone empower themself in a digital world?
+-Somebody can empower themself in the digital world by learning how to use technology effectively
+How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+-Somebody empowered can help another person by teaching them about technology and how to effectively use technology. Something I could do would be to help others understand how to effectively use technology, especially those who are not well versed in using tech.
+Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+-Red tape blocks digital empowerment because it stops users from reaching certain sites and expanding their understanding of technology. I believe that there are such barriers at del norte, like when certain websites are blocked. This is also especially evident in China where many things are blocked/censored.
