@@ -5,4 +5,4 @@ These GitHub pages are intended to show my progress throughout this trimester in
 
 [Review Ticket 1](https://github.com/AkhilNandhakumar/Guython/issues/14)
 
-[Review Ticket 2]()
+[Review Ticket 2](https://github.com/AkhilNandhakumar/Guython/issues/21)
