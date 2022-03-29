@@ -95,6 +95,7 @@ sub_menu2 = [
   ["Sequential Sum (OOP)", classes.consec_print],
   ["Sequential Sum (Imperative)", classes.seq_sum],
   ["Palindrome Tester", classes.pali_tester],
+  ["Creative Python Program", "tt2/ritvik.py"]
 ]
 
 # Menu banner is typically defined by menu owner
