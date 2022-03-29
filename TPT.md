@@ -51,6 +51,7 @@ Actions:
 5.3
 -
 -I don't think that this was intentional, I think maybe because he may not have had a big enough or diverse enough sample to choose from
+ADDING ON: I also think that this wasn't very intentional, and it probably opens up the idea that the company needs to account for the diversity of the people using their product. This could be achieved by having people from different races, rather than all from the same race .
 
 -I don't think that this is harmful or intended to be, it was just a mistake from the programmer
 
