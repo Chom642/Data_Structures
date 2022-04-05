@@ -9,4 +9,4 @@ Week 1 | [Week 1 Review Ticket](https://github.com/AkhilNandhakumar/Guython/issu
 Week 2 | [Week 2 Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/21) | Classy Solutions |
 Week 3 | [Week 3 Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/27) |  | Video + Final |
  
-[Video playlist]()
+[Video playlist](https://www.youtube.com/watch?v=gMyALVGe7pk&list=PLz6C6Oy0nScnWnOGFjvnkG3G8Wu2B6IKh)
