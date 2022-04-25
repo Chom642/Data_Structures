@@ -106,3 +106,38 @@ Actions
 -When we deploy we encode private information about the user and machine on which the project is being deployed onto. For example IP addresses are used in the deployment process.
 
 -When I was younger I would see ads, scams, and other phishing attempts on the internet, however I never fell for any of them personally.
+
+
+## Finals Quiz 1 -- 45/50
+- Question 9
+  - I misread the chart and thought that the automated system would route the customer to a human rep
+- Question 23
+  - I thought that the ip address would be more damaging, however it doesn't contain information about the user
+- Question 24
+  - I forgot about how internet protocals worked, and that the meta data is where to send the data not how to catagorize
+- Question 28
+  - Data thats compressed cannot be restored, however there are still tradeoffs for using it/positives
+- Question 32
+   - Not moving line 5 to be between line 2 and 3 would change the input and have an unintended output.
+- Question 42
+   - I converted my binary wrong by accident
+
+## Finals Quiz 2 -- 41/50
+- Question 7
+   - Lossless compression allows the data to be uncompressed, not secured
+- Question 8
+   - Open-source software just allows developers to customize the source code to suit their individual needs
+- Question 16
+   - Radio songs are arguably more biased than just selecting/gathering data from random users
+- Question 22
+   - IVP6 isn't shorter than IVP4 addressed, it just allows a greater number of addresses to connect
+- Question 24
+   - Redundancy only allows packages to be transmitted along multiple paths, not to submit less packages
+- Question 35
+   - Integers cannot be subject to rounding errors because they aren't fractions and hence cannot be rounded
+- Question 43
+   - I miss counted the code, the robot would end up in the bottom right corner
+- Question 45
+   - The program would not identify students with a grade point average less than 3.5
+- Question 50
+   - All three datapoints could be obtained from the table 
