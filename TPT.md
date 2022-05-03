@@ -141,3 +141,21 @@ Actions
    - The program would not identify students with a grade point average less than 3.5
 - Question 50
    - All three datapoints could be obtained from the table 
+
+
+## Finals Quiz 3 -- 43/50
+- Question 6
+   - Marked it wrong, but said it was correct
+- Question 9
+   - The flowchart doesn't explicity state that it needed both the floor > 10 and the bedrooms = 3, but it was either or
+- Question 13
+   - The code would incorrectly charge people who use more than 25 units of electricity, instead it was would be C.
+- Question 17
+   - One of my answers was wrong, the procedure would return with the correct value of 10, it should have been C
+- Question 21
+   - Overwhelming the system, wouldn't change no matter the password strenght
+- Question 30
+   - Internet is the network of interconnected networks, WWW is just an information system accessed by the internet
+- Question 45
+   - Misread frequent and infrequent.
+
